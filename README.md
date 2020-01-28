@@ -13,13 +13,11 @@ to start with this basic implementation of a server in golang lets follow these 
 This will generates an executable in folder by name ***"main"***
 
 ##  Building Docker Image
-to build docker image of the server application run the following command:
-    ```
+to build docker image of the server application run the following command
+```
         docker build -t server:latest .
-    
-    ```
-Above command will create and image and you can verify it by getting your image list from command :
-    ```
+```
+Above command will create and image and you can verify it by getting your image list from command
+```
         docker images
-    
-    ```	
+```	
