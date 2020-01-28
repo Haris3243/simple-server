@@ -1,8 +1,0 @@
-#ignore git folder
-.git
-
-#ignore go source files
-**/*.go
-
-#ignore all markdown files
-*.md
