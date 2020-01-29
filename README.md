@@ -21,3 +21,8 @@ Above command will create and image and you can verify it by getting your image 
 ```
         docker images
 ```	
+### Using Kubernetes Deployment
+to deploy it using kubernetes deployment resource,use following command
+```
+    kubectl create -f deployment.yml
+```

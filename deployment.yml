@@ -20,7 +20,7 @@ template:
   spec:
     containers:
     - image: server:latest
-      name: container1
+      name: server
       ports:
       - containerPort: 8083
       env:
